@@ -6,7 +6,7 @@ package uno_game;
 
 /**
  *
- *   @editor Nitesh Bajaj
+ *   @editor Utsavjeet
  */
 
    
