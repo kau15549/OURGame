@@ -6,7 +6,7 @@ package uno_game;
 
 /**
  *
- * @author User
+ * @editor nitesh bajaj
  */
  
 import java.util.ArrayList;
